@@ -1,9 +1,5 @@
 # Projeto Engenharia de Prompt - AutoGen Studio
 
-Este repositório contém a documentação da execução do projeto de Engenharia de Prompt: uma pesquisa de aceitação para um novo refrigerante sabor **Pitanga com Gengibre**, usando um sistema multiagente no AutoGen Studio.
-
-## LLM utilizada nas inferências
-
 A execução final foi feita localmente pelo **LM Studio**, sem uso de API paga da OpenAI ou Google.
 
 - **Modelo / LLM:** `gemma-2b-aps-it`
